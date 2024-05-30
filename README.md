@@ -1,4 +1,4 @@
-This project shows a 2D model train going around a track. It was created for the Computer Graphics class at the University of Wisconsin in Spring of 2023 and uses the class software framework. This code should not be copied for other student assignments.
+This project shows a 2D model train going around a track using the Canvas API. It was created for the Computer Graphics class at the University of Wisconsin in Spring of 2023 and uses the class software framework. This code should not be copied for other student assignments.
 
 Main file: tr-01-01.html
 
